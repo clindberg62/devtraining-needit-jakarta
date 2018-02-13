@@ -1,0 +1,1113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="cmdb_ci_hardware" version="2" view="rpt-tempcmdb_ci_hardwareadmin">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9d41f356db00130015917e7dbf96195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>manufacturer</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1141f356db00130015917e7dbf96195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>location</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9141f356db00130015917e7dbf96195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1541f356db00130015917e7dbf96195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9541f356db00130015917e7dbf96195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1941f356db00130015917e7dbf96195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>maintenance_schedule</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9941f356db00130015917e7dbf96195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>change_control</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1d41f356db00130015917e7dbf96195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>asset</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9d41f356db00130015917e7dbf96195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>asset_tag</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1141f356db00130015917e7dbf961960</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9141f356db00130015917e7dbf961960</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1541f356db00130015917e7dbf961960</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assignment_group</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9541f356db00130015917e7dbf961960</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>attributes</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1941f356db00130015917e7dbf961960</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>can_print</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>14</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9941f356db00130015917e7dbf961960</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>category</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>15</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1d41f356db00130015917e7dbf961960</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>checked_in</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>16</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9d41f356db00130015917e7dbf961960</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>checked_out</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>17</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1141f356db00130015917e7dbf961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>comments</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>18</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9141f356db00130015917e7dbf961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>company</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>19</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1541f356db00130015917e7dbf961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>correlation_id</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>20</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9541f356db00130015917e7dbf961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cost</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>21</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1941f356db00130015917e7dbf961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cost_center</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>22</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9941f356db00130015917e7dbf961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cost_cc</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>23</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1d41f356db00130015917e7dbf961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>24</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9d41f356db00130015917e7dbf961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_by</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>25</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1141f356db00130015917e7dbf961962</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>dns_domain</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>26</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9141f356db00130015917e7dbf961962</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>default_gateway</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>27</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1541f356db00130015917e7dbf961962</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>department</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>28</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9541f356db00130015917e7dbf961962</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>discovery_source</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>29</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1941f356db00130015917e7dbf961962</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_domain</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>30</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9941f356db00130015917e7dbf961962</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_domain_path</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>31</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1d41f356db00130015917e7dbf961962</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>due</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>32</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9d41f356db00130015917e7dbf961962</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>due_in</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>33</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1141f356db00130015917e7dbf961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>fault_count</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>34</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9141f356db00130015917e7dbf961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>first_discovered</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>35</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1541f356db00130015917e7dbf961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>fqdn</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>36</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9541f356db00130015917e7dbf961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>gl_account</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>37</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1941f356db00130015917e7dbf961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>hardware_status</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>38</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9941f356db00130015917e7dbf961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ip_address</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>39</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1d41f356db00130015917e7dbf961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>install_date</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>40</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9d41f356db00130015917e7dbf961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>invoice_number</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>41</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1141f356db00130015917e7dbf961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>justification</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>42</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9141f356db00130015917e7dbf961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>lease_id</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>43</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1541f356db00130015917e7dbf961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>mac_address</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>44</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9541f356db00130015917e7dbf961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>managed_by</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>45</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1941f356db00130015917e7dbf961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>model_id</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>46</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9941f356db00130015917e7dbf961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>model_number</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>47</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1d41f356db00130015917e7dbf961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>monitor</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>48</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9d41f356db00130015917e7dbf961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>last_discovered</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>49</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1141f356db00130015917e7dbf961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>operational_status</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>50</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9141f356db00130015917e7dbf961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>delivery_date</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>51</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1541f356db00130015917e7dbf961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>order_date</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>52</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9541f356db00130015917e7dbf961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>owned_by</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>53</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1941f356db00130015917e7dbf961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>po_number</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>54</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9941f356db00130015917e7dbf961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>purchase_date</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>55</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1d41f356db00130015917e7dbf961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>unverified</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>56</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9d41f356db00130015917e7dbf961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>schedule</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>57</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1141f356db00130015917e7dbf961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>serial_number</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>58</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9141f356db00130015917e7dbf961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>skip_sync</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>59</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1541f356db00130015917e7dbf961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>start_date</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>60</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9541f356db00130015917e7dbf961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>install_status</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>61</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1941f356db00130015917e7dbf961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>subcategory</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>62</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9941f356db00130015917e7dbf961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>hardware_substatus</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>63</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1d41f356db00130015917e7dbf961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>support_group</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>64</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9d41f356db00130015917e7dbf961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>supported_by</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>65</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1141f356db00130015917e7dbf961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_path</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>66</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9141f356db00130015917e7dbf961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_tags</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>67</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1541f356db00130015917e7dbf961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_by</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>68</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9541f356db00130015917e7dbf961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_mod_count</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>69</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1941f356db00130015917e7dbf961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>vendor</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>70</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>9941f356db00130015917e7dbf961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>warranty_expiration</element>
+            <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="4b618561db00130015917e7dbf9619af">1941f356db00130015917e7dbf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>71</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:27</sys_created_on>
+            <sys_id>1d41f356db00130015917e7dbf961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>cmdb_ci_hardware</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-05 15:45:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1941f356db00130015917e7dbf96195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-05 15:45:26</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt-tempcmdb_ci_hardwareadmin" name="rpt-tempcmdb_ci_hardwareadmin">4b618561db00130015917e7dbf9619af</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
